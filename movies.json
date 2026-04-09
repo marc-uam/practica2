@@ -1,0 +1,16 @@
+[
+  {
+    "id": "m1",
+    "title": "Inception",
+    "genre": "sci-fi",
+    "year": 2010,
+    "in_cinema": false
+  },
+  {
+    "id": "m3",
+    "title": "Titanic",
+    "genre": "drama",
+    "year": 1997,
+    "in_cinema": false
+  }
+]
