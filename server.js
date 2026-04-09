@@ -1,7 +1,6 @@
 import express from 'express'
 import bodyParser from 'body-parser'
 import { readFile, writeFile } from 'fs/promises'
-
 const PORT = 8080
 const app = express()
 

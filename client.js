@@ -1,7 +1,6 @@
 import axios from 'axios'
 
 const server = 'http://localhost:8080'
-
 async function testHelloWorld() {
   const result = await axios.get(server + '/')
   return result.data
